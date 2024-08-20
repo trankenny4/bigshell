@@ -1,0 +1,12 @@
+---
+:id: 259653954
+:submitters:
+- :name: Kenny Tran
+  :email: tranken@oregonstate.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-07-17 22:20:26.486506000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-07-17 15:20:26.486506000 Z
+:status: processed
+:score: 100.0
