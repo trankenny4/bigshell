@@ -17,9 +17,10 @@ Learning Outcomes:
 - Write programs using the Unix API for signal handling (Module 3, MLO 3)
 - Explain I/O redirection and write programs that can employ I/O redirection (Module 3, MLO 4)
 
+
 Implements a large subset of the POSIX Shell’s functionality.
 
-The high-level functionalities you will be tasked with implementing are:
+The high-level functionalities implemented are:
 - cd – Change the working directory
 - exit – Cause the shell to exit
 - unset – unset values of variables
